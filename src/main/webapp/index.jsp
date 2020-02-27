@@ -18,3 +18,4 @@
 <%@ include file="partials/scripts.jsp" %>
 </body>
 </html>
+
